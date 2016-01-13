@@ -2,6 +2,7 @@
 # coding:utf-8
 '''
 利用python图像处理包PIL生成验证码
+Centos安装相关依赖库
 yum install libjpeg libjpeg-devel zlib zlib-devel freetype freetype-devel lcms lcms-devel
 yum install python-imaging
 '''
